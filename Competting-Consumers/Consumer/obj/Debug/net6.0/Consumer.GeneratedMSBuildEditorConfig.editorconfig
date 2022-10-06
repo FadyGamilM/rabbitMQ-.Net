@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Producer
-build_property.ProjectDir = F:\__111 COMPUTER SCIENCE\4th CSE 2022\dotnet\rabbitMQ-.Net\Competting-Consumers\Producer\
+build_property.RootNamespace = Consumer
+build_property.ProjectDir = F:\__111 COMPUTER SCIENCE\4th CSE 2022\dotnet\rabbitMQ-.Net\Competting-Consumers\Consumer\
