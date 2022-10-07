@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "b7QddLtwpkJphxAjpiGP4yaNCEva9R/J71/9scoSE1hLlQCvSDNULAQ7uND7b0OQnEsKT6KifiWxm/V/HqOhIQ==",
+  "success": true,
+  "projectFilePath": "F:\\__111 COMPUTER SCIENCE\\4th CSE 2022\\dotnet\\rabbitMQ-.Net\\Routing\\Dierct-Exchange\\InventoryService\\InventoryService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vip\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\vip\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\vip\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
