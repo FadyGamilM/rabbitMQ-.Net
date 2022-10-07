@@ -12,8 +12,8 @@ using var channel = connection.CreateModel();
 
 //! (3) explicitly create an exchange 
 channel.ExchangeDeclare(
-   exchange: "PubSub",
-   type: ExchangeType.Fanout
+   exchange: "routingExchange",
+   type: ExchangeType.Direct
 );
 
 //! (4) the message we want to publish
@@ -23,6 +23,10 @@ var msg = "A new order is created !!";
 var encodedMsg = Encoding.UTF8.GetBytes(msg);
 
 //! (6) publish the message to the fanout exchange
-channel.BasicPublish(exchange: "PubSub", "", null, encodedMsg);
+// TODO=> to be consumed by the Dashboard service only
+channel.BasicPublish(exchange: "routingExchange", routingKey: "Analysis", null, encodedMsg);
+
+// TODO=> to be consumed by the Inventory service only
+channel.BasicPublish(exchange: "routingExchange", routingKey: "ProductsWhareHouse", null, encodedMsg);
 
 System.Console.WriteLine($"[PUBLISHED MESSAGE] => {msg}");

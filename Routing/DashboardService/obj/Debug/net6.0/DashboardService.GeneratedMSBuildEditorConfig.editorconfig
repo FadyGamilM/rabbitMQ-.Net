@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Consumer_2
-build_property.ProjectDir = f:\__111 COMPUTER SCIENCE\4th CSE 2022\dotnet\rabbitMQ-.Net\Pub-Sub-Pattern\Consumer-2\
+build_property.RootNamespace = DashboardService
+build_property.ProjectDir = F:\__111 COMPUTER SCIENCE\4th CSE 2022\dotnet\rabbitMQ-.Net\Routing\DashboardService\
