@@ -1,0 +1,17 @@
+F:\__111 COMPUTER SCIENCE\4th CSE 2022\dotnet\rabbitMQ-.Net\Header-Exchanges\Producer\bin\Debug\net6.0\Producer.exe
+F:\__111 COMPUTER SCIENCE\4th CSE 2022\dotnet\rabbitMQ-.Net\Header-Exchanges\Producer\bin\Debug\net6.0\Producer.deps.json
+F:\__111 COMPUTER SCIENCE\4th CSE 2022\dotnet\rabbitMQ-.Net\Header-Exchanges\Producer\bin\Debug\net6.0\Producer.runtimeconfig.json
+F:\__111 COMPUTER SCIENCE\4th CSE 2022\dotnet\rabbitMQ-.Net\Header-Exchanges\Producer\bin\Debug\net6.0\Producer.dll
+F:\__111 COMPUTER SCIENCE\4th CSE 2022\dotnet\rabbitMQ-.Net\Header-Exchanges\Producer\bin\Debug\net6.0\Producer.pdb
+F:\__111 COMPUTER SCIENCE\4th CSE 2022\dotnet\rabbitMQ-.Net\Header-Exchanges\Producer\bin\Debug\net6.0\RabbitMQ.Client.dll
+F:\__111 COMPUTER SCIENCE\4th CSE 2022\dotnet\rabbitMQ-.Net\Header-Exchanges\Producer\obj\Debug\net6.0\Producer.csproj.AssemblyReference.cache
+F:\__111 COMPUTER SCIENCE\4th CSE 2022\dotnet\rabbitMQ-.Net\Header-Exchanges\Producer\obj\Debug\net6.0\Producer.GeneratedMSBuildEditorConfig.editorconfig
+F:\__111 COMPUTER SCIENCE\4th CSE 2022\dotnet\rabbitMQ-.Net\Header-Exchanges\Producer\obj\Debug\net6.0\Producer.AssemblyInfoInputs.cache
+F:\__111 COMPUTER SCIENCE\4th CSE 2022\dotnet\rabbitMQ-.Net\Header-Exchanges\Producer\obj\Debug\net6.0\Producer.AssemblyInfo.cs
+F:\__111 COMPUTER SCIENCE\4th CSE 2022\dotnet\rabbitMQ-.Net\Header-Exchanges\Producer\obj\Debug\net6.0\Producer.csproj.CoreCompileInputs.cache
+F:\__111 COMPUTER SCIENCE\4th CSE 2022\dotnet\rabbitMQ-.Net\Header-Exchanges\Producer\obj\Debug\net6.0\Producer.csproj.CopyComplete
+F:\__111 COMPUTER SCIENCE\4th CSE 2022\dotnet\rabbitMQ-.Net\Header-Exchanges\Producer\obj\Debug\net6.0\Producer.dll
+F:\__111 COMPUTER SCIENCE\4th CSE 2022\dotnet\rabbitMQ-.Net\Header-Exchanges\Producer\obj\Debug\net6.0\refint\Producer.dll
+F:\__111 COMPUTER SCIENCE\4th CSE 2022\dotnet\rabbitMQ-.Net\Header-Exchanges\Producer\obj\Debug\net6.0\Producer.pdb
+F:\__111 COMPUTER SCIENCE\4th CSE 2022\dotnet\rabbitMQ-.Net\Header-Exchanges\Producer\obj\Debug\net6.0\Producer.genruntimeconfig.cache
+F:\__111 COMPUTER SCIENCE\4th CSE 2022\dotnet\rabbitMQ-.Net\Header-Exchanges\Producer\obj\Debug\net6.0\ref\Producer.dll
